@@ -1,0 +1,56 @@
+.navbar {
+    box-shadow: rgba(14, 63, 126, 0.04) 0px 0px 0px 1px, rgba(42, 51, 69, 0.04) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.04) 0px 6px 6px -3px, rgba(14, 63, 126, 0.04) 0px 12px 12px -6px, rgba(14, 63, 126, 0.04) 0px 24px 24px -12px;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    padding: 10px 20px
+}
+
+
+.nav-left a {
+    padding: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-left a.address {
+    max-width: 300px;
+    color: #000000;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    background-clip: border-box;
+    -webkit-background-clip: border-box;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+}
+
+.branding {
+    position: relative;
+}
+
+.branding-left {
+    line-height: 40px;
+    font-size: 40px;
+    color: #198754;
+}
+
+.branding-right {
+    position: absolute;
+    bottom: 15%;
+    left: 20px;
+    font-size: 15px;
+}
+
+.branding-right span {
+    display: block;
+    line-height: 10px;
+}
+
+
+
+.header-wishlist-icon i {}
+
+.header-cart-icon i {}

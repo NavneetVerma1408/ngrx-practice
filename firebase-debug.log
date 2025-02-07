@@ -1,0 +1,76 @@
+[debug] [2025-02-06T05:45:12.093Z] ----------------------------------------------------------------------
+[debug] [2025-02-06T05:45:12.094Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2025-02-06T05:45:12.095Z] CLI Version:   13.30.0
+[debug] [2025-02-06T05:45:12.095Z] Platform:      win32
+[debug] [2025-02-06T05:45:12.095Z] Node Version:  v20.18.0
+[debug] [2025-02-06T05:45:12.095Z] Time:          Thu Feb 06 2025 11:15:12 GMT+0530 (India Standard Time)
+[debug] [2025-02-06T05:45:12.095Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2025-02-06T05:46:27.497Z] ----------------------------------------------------------------------
+[debug] [2025-02-06T05:46:27.499Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2025-02-06T05:46:27.499Z] CLI Version:   13.30.0
+[debug] [2025-02-06T05:46:27.499Z] Platform:      win32
+[debug] [2025-02-06T05:46:27.499Z] Node Version:  v20.18.0
+[debug] [2025-02-06T05:46:27.499Z] Time:          Thu Feb 06 2025 11:16:27 GMT+0530 (India Standard Time)
+[debug] [2025-02-06T05:46:27.499Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=740275819&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2025-02-06T05:47:30.770Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-02-06T05:47:30.771Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"6a3e6849-f8e5-439f-8f58-14264571d62b"}
+[debug] [2025-02-06T05:47:31.425Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2025-02-06T05:47:31.425Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"eZc8vhfHuN6foZc-ce8EQsBqn9njsyNfkoucLNQtrXo"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    6A3E6
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=Lty8nbQHd6JfxjGPXqrTGgg_INPMJSS1PpT1Ma0D32E&session=6a3e6849-f8e5-439f-8f58-14264571d62b&attest=eZc8vhfHuN6foZc-ce8EQsBqn9njsyNfkoucLNQtrXo
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
+[debug] [2025-02-06T05:48:38.997Z] ----------------------------------------------------------------------
+[debug] [2025-02-06T05:48:38.999Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2025-02-06T05:48:38.999Z] CLI Version:   13.30.0
+[debug] [2025-02-06T05:48:38.999Z] Platform:      win32
+[debug] [2025-02-06T05:48:38.999Z] Node Version:  v20.18.0
+[debug] [2025-02-06T05:48:38.999Z] Time:          Thu Feb 06 2025 11:18:38 GMT+0530 (India Standard Time)
+[debug] [2025-02-06T05:48:38.999Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=166110921&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2025-02-06T05:49:35.031Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-02-06T05:49:35.031Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"b755d9a6-c718-45f6-be5a-0186ec00232c"}
+[debug] [2025-02-06T05:49:35.714Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2025-02-06T05:49:35.714Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"zVyvYjUA14EcmqKyj31N-tlp29LUNmVI8j5y6Z2sf2Q"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    B755D
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=f9CPTOSW6imsunpafqk6fGkz3s6yQAGuMRthpuq76v4&session=b755d9a6-c718-45f6-be5a-0186ec00232c&attest=zVyvYjUA14EcmqKyj31N-tlp29LUNmVI8j5y6Z2sf2Q
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 

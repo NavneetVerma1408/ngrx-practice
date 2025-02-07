@@ -11,11 +11,12 @@ export class Product {
     brand: string = ''
     category: string = ''
     rating: number = 0
+    isAddedToCart:boolean=false;
     reviews: Review[] = []
 }
 
 export class Review {
-    user_id: number = 0
+    reviewer: string = ''
     rating: number = 0
     comment: string = ''
 }

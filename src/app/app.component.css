@@ -1,0 +1,28 @@
+.main-section {
+    padding: 85px 100px 25px 100px;
+}
+
+/* .disable-section {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 98;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    transition: 0.1s all ease-in;
+    opacity: 0.3;
+} */
+
+@media (max-width:992px) {
+    .main-section {
+        padding: 85px 50px 25px 50px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .main-section {
+        padding: 85px 25px 25px 25px;
+    }
+}

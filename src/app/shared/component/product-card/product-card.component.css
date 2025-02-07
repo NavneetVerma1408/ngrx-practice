@@ -1,0 +1,41 @@
+.incr-decr input {
+    max-width: 40px;
+    border: none;
+    background: #fff;
+    font-weight: 500;
+}
+
+.incr {
+    border: none;
+    background: #fff;
+    color: #198754;
+}
+
+.decr {
+    border: none;
+    background: #fff;
+    color: #198754;
+}
+
+.round-bg.btn {
+    background: #eee;
+    border: 1px solid #eee;
+    border-radius: 50%;
+    outline: none;
+}
+
+.card {
+    border: 1px solid #cce7d0;
+    border-radius: 10px;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+}
+
+.card img {
+    border-radius: 10px;
+}

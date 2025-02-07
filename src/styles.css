@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.modal-header button {
+    border: none;
+    background: none;
+}
+
+.modal-header button span {
+    font-size: 30px;
+    line-height: 18px;
+}
+
+.modal-header button:focus {
+    outline: none;
+}
+
+.address-dialog-class {
+    position: absolute !important;
+    left: 77px;
+    top: 32px;
+}
+
+@media only screen and (max-width:768px) {
+    .address-dialog-class {
+        top: unset;
+        left: 0;
+        bottom: -28px;
+        transform: none;
+    }
+}
